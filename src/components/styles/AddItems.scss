@@ -1,0 +1,24 @@
+form {
+    input {
+        padding: 10px;
+        background: #ebebeb;
+        border: .3px solid #ccc;
+        outline: none;
+    }
+
+    [type=submit] {
+        width: 10%;
+        background: #2ebaee;
+        border: .3px solid #2ebaee;
+        color: #fff;
+        cursor: pointer;
+    }
+
+    [type=text] {
+        width: 60%;
+    }
+
+    [type=number] {
+        width: 30%;
+    }
+}

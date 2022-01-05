@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+
+    body {
+        color: #fff;
+        background: #46529d;
+    }
+
+    .container {
+        width: 60%;
+        margin: 10% auto;
+
+        .text-center {
+            text-align: center;
+        }
+    }
+}

@@ -1,0 +1,40 @@
+.list-items {
+    background: #fff;
+    color: #46529d;
+
+    p {
+        margin: 0;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    span {
+        display: inline-block;
+        text-align: center;
+        padding: 10px 0;
+        font-size: 20px;
+        border: .3px solid #ccc;
+    }
+
+    .title {
+        background: #2ebaee;
+        color: #fff;
+    }
+
+    .name {
+        width: 60%;
+    }
+
+    .age {
+        width: 30%;
+    }
+
+    .action {
+        width: 10%;
+    }
+
+    .icon {
+        color: #f00;
+        cursor: pointer;
+    }
+}
